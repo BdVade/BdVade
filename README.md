@@ -12,7 +12,7 @@
 - Watching Arsenal win.
 
 
-## 💻 Cool Projects I'm working on
+##  Projects I'm working on
 - ### [DRF-Admin](https://github.com/BdVade/DRF-admin)
     A package to generate CRUD endpoints for registered models with the Django-REST Framework.
     
